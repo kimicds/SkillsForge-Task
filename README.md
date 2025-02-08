@@ -6,6 +6,7 @@ To build a machine learning model that accurately predicts CO₂ emissions based
 CO₂ Emission Prediction - SkillsForge Internship Task
 
 Problem Statement
+
 Carbon dioxide (CO₂) emissions play a significant role in climate change, making accurate prediction crucial for environmental monitoring and policy decisions.
 This project aims to develop a predictive model capable of estimating CO₂ emissions using supervised machine learning techniques, ensuring effective and scalable solutions for emission tracking.
 
